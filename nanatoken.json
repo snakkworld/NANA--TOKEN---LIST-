@@ -1,0 +1,21 @@
+{
+  "name": "Snakk",
+  "logoURI": "https://drive.google.com/uc?id=1B-lt96QDsmymku503NM0m_RnQY5TlPk_",
+  "keywords": ["defi", "token"],
+  "timestamp": "2024-12-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": " 0xA8C437B023f45Af3Cc1527934a7a4D7CBE3Fb400",
+      "symbol": "NANA",
+      "name": "Snakk",
+      "decimals": 18,
+      "logoURI": "https://drive.google.com/uc?id=1B-lt96QDsmymku503NM0m_RnQY5TlPk_"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
